@@ -1,2 +1,2 @@
 # SEARCHPAGE
-An unfinished OSSN component for creating a search page
+An OSSN component for creating a search page
